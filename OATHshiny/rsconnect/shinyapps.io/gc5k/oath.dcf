@@ -1,0 +1,12 @@
+name: oath
+title: OATH
+username:
+account: gc5k
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 757464
+bundleId: 1912146
+url: https://gc5k.shinyapps.io/oath/
+when: 1551623263.40358
+asMultiple: FALSE
+asStatic: FALSE
